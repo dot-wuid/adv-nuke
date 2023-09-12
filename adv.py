@@ -73,7 +73,7 @@ __________________Logged In___________________
 Info
 
 Prefix ~ /
-Version ~ 1.1.0 (9/11/23)
+Version ~ 1.1.1 (9/12/23)
 Author ~ ._.no_._. (discord)
 Download ~ github.com/dot-wuid/adv-nuke
 Auto Updates ~ {aue}
