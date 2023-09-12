@@ -11,3 +11,6 @@ Coded By .wuid / ._.no_._.
 
 If Not Obvious.
 THIS IS A **DISCORD NUKER** Be warned While using this..
+
+# IMPORTANT
+YOU MAY HAVE TO REOPEN THE APP Multiple TIMES!!!
